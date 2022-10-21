@@ -8,4 +8,3 @@ const disponible = {
 
 const billete = Object.keys(disponible);
 
-console.log(billete);
