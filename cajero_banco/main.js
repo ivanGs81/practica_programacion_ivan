@@ -8,4 +8,4 @@ const disponible = {
 
 const billete = Object.keys(disponible);
 
-console.log("quiero papa")
+console.log("quiero mama")
